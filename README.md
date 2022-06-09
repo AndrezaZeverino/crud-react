@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+CRUD feito seguindo o tutorial: https://www.bezkoder.com/react-crud-web-api/#Create_Data_Service
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
